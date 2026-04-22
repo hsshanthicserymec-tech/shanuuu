@@ -1,0 +1,1 @@
+[{"Item":"Paneer Tikka","Image":"https://www.cookwithkushi.com/wp-content/uploads/2023/02/paneer_tikka_at_home_01.jpg","Description":"Grilled paneer in a creamy, spiced tomato gravy with a smoky flavor.","Half Price":"90-/","Full Price":"180-/"}]
